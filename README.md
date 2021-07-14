@@ -185,4 +185,7 @@
 5. 데이터를 정렬해서 출력하기(ORDER BY)
 6. WHERE절 
 7. 산술 연산자, 비교 연산자, 논리 연산자 배우기
+<<<<<<< HEAD
+>>>>>>> parent of 18d01c7 (Update README.md)
+=======
 >>>>>>> parent of 18d01c7 (Update README.md)
