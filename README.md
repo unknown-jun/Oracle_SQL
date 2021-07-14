@@ -12,7 +12,7 @@
 ## PART 2「초급」 SQL 기초 다지기
 <br>
 
-8. 문자열 다루기
+8. 문자열 다루기<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8-1. 대소문자 변환 함수 배우기(UPPER, LOWER, INITCAP)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8-2. 문자에서 특정 철자 추출하기(SUBSTR)  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8-3. 문자열의 길이를 출력하기(LENGTH)  <br>
@@ -23,30 +23,29 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8-8. 반올림해서 출력하기(ROUND)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8-9. 숫자를 버리고 출력하기(TRUNC)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8-10. 나눈 나머지 값 출력하기(MOD)<br>
-<br>
-9. 날짜 다루기
+
+9. 날짜 다루기<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9-1. 날짜 간 개월 수 출력하기(MONTHS_BETWEN)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9-2.  개월 수 더한 날짜 출력하기(ADD_MONTHS)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9-3.  특정 날짜 뒤에 오는 요일 날짜 출력하기(NEXT_DAY)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9-4.  특정 날짜가 있는 달의 마지막 날짜 출력하기(LAST_DAY)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9-5.  문자형으로 데이터 유형 변환하기(TO_CHAR)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9-6.  날짜형으로 데이터 유형 변환하기(TO_DATE)<br>
-<br>
-10. 데이터 변환
+
+10. 데이터 변환<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10-1. 암시적 형 변환 이해하기<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10-2. NULL 값 대신 다른 데이터 출력하기(NVL, NVL2)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10-3. IF문을 SQL로 구현하기 1(DECODE)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10-4. IF문을 SQL로 구현하기 2(CASE)<br>
-<br>
-11. 집계함수
+
+11. 집계함수<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11-1. 최대값 출력하기(MAX)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11-2. 최소값 출력하기(MIN)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11-3. 평균값 출력하기(AVG)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11-4. 토탈값 출력하기(SUM)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11-5. 건수 출력하기(COUNT)<br>
 
-
-12. 데이터 분석함수
+12. 데이터 분석함수<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12-1. 데이터 분석 함수로 순위 출력하기 1(RANK)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12-1. 데이터 분석 함수로 순위 출력하기 2(DENSE_RANK)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12-1. 데이터 분석 함수로 등급 출력하기(NTILE)<br>
