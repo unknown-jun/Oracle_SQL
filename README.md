@@ -46,7 +46,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11-5. 건수 출력하기(COUNT)<br>
 
 12. 데이터 분석함수<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12-1. 데이터 분석 함수로 순위 출력하기 1(RANK)<br>
+&nbsp;&nbsp;&nbsp;12-1. 데이터 분석 함수로 순위 출력하기 1(RANK)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12-1. 데이터 분석 함수로 순위 출력하기 2(DENSE_RANK)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12-1. 데이터 분석 함수로 등급 출력하기(NTILE)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12-1. 데이터 분석 함수로 순위의 비율 출력하기(CUME_DIST)<br>
