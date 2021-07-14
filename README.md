@@ -1,6 +1,7 @@
 # Oracle_SQL
 
 ## PART 1「입문」 SQL 첫발 내딛기
+<<<<<<< HEAD
 <br>
 
 1. select 절<br>
@@ -176,3 +177,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;21-13. SQL로 알고리즘 문제 풀기 13(피타고라스의 정리)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;21-14. SQL로 알고리즘 문제 풀기 14(몬테카를로 알고리즘)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;21-15. SQL로 알고리즘 문제 풀기 15(오일러 상수 자연상수 구하기)<br>
+=======
+1. 테이블에서 특정 열(COLUMN) 선택, 출력
+2. 컬럼 별칭을 사용하여 출력되는 컬럼명 변경
+3. 연결 연산자 (||)
+4. 중복 데이터 제거하여 출력
+5. 데이터를 정렬해서 출력하기(ORDER BY)
+6. WHERE절 
+7. 산술 연산자, 비교 연산자, 논리 연산자 배우기
+>>>>>>> parent of 18d01c7 (Update README.md)
