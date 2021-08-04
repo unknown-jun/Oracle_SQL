@@ -176,3 +176,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;21-13. SQL로 알고리즘 문제 풀기 13(피타고라스의 정리)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;21-14. SQL로 알고리즘 문제 풀기 14(몬테카를로 알고리즘)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;21-15. SQL로 알고리즘 문제 풀기 15(오일러 상수 자연상수 구하기)<br>
+
+<br>
+출처: IT WILL 유연수 선생님 강의
